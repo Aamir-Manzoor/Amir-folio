@@ -1,9 +1,9 @@
 # Amir-s-folio
 Welcome to my Portfolio , Here I showcased my skills and projects using the power of React and Three.js.  In this repository, you will find a beautifully designed and interactive portfolio website that I have created using React - a popular JavaScript library for building user interfaces.
 
+![Amir _ Portfolio - Brave 03-04-2023 00_31_28](https://user-images.githubusercontent.com/104091085/229373508-8cfa152d-9a28-4261-9811-ad4c873a3f3e.png)
 
-<h1>Amir-React-3D</h1>
-Welcome to my Amir-React-3D portfolio repository! This is where I showcase my skills and projects using React and Three.js.
+
 
 <h1>About the portfolio</h1>
 My portfolio website is designed using React, a popular JavaScript library for building user interfaces, and Three.js, a lightweight 3D library. It features a clean and modern design with stunning 3D animations and graphics to highlight my skills and experience as a developer.
